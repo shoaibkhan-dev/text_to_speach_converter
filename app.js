@@ -29,9 +29,4 @@ let speech = new SpeechSynthesisUtterance();
       window.speechSynthesis.speak(speech);
     });
 
-
-    function greet (){
-      console.log("hello")
-    }
-
-   console.log(greet())
+    let arr = [1,2,3,4,5]
