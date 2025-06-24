@@ -34,4 +34,4 @@ let speech = new SpeechSynthesisUtterance();
       console.log("hello")
     }
 
-    greet()
+   console.log(greet())
